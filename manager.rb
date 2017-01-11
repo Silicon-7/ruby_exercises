@@ -1,3 +1,10 @@
+# the different cases
+# -----------------
+# snake_case
+# UpperCamelCase
+# lowerCamelCase
+# CONSTANT
+
 module Reporting
   def send_report
     puts "Sending Email..."
